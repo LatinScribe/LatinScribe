@@ -12,6 +12,8 @@
 
 - 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/henry-tj-chen)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LatinScribe&show_icons=true&locale=en" alt="LatinScribe" /></p>
 
 <!---
