@@ -9,6 +9,8 @@
 - 👀 I’m interested in developing software that will change the world
 
 - 🔧 Skills in Java, Python, PHP, HTML & CSS, Javascipt, Git, cPanel
+  
+- 🎲 Life long hobby of playing Go, contact me to play a game
 
 - 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
