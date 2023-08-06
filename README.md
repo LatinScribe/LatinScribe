@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="LatinScribe" />
 </a>
 <a href="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&card_width=320">
-  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&card_width=320" alt="LatinScribe"/>
+  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&card_width=200" alt="LatinScribe"/>
 </a>
 
 <!---
