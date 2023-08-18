@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/henry-tj-chen/)
 
-<p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="LatinScribe" /></p>
+<p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" /></p>
 
 <!---
 LatinScribe/LatinScribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
