@@ -20,8 +20,8 @@
 <a href="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en">
   <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" />
 </a>
-<a href="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
-  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&card_width=200&theme=tokyonight" alt="LatinScribe"/>
+<a href="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200">
+  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200" alt="LatinScribe"/>
 </a>
 
 <!---
