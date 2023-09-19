@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/henry-tj-chen/)
 
+- 🌐 Check out my [Website](https://henrytchen.com/)
+
 <p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" /></p>
 
 <!---
