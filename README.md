@@ -12,11 +12,11 @@
   
 - 🎲 Life long hobby of playing Go, contact me to play a game
 
-- 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
-
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/henry-tj-chen/)
 
 - 🌐 Check out my [Website](https://henrytchen.com/)
+  
+- 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
 <p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" /></p>
 
