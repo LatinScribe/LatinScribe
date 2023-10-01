@@ -18,7 +18,7 @@
   
 - 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
-<p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" /></p>
+<p>&nbsp;<img align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en&hide=stars" alt="LatinScribe" /></p>
 
 <!---
 LatinScribe/LatinScribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
