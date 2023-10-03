@@ -17,8 +17,8 @@ jobs:
       - name: Download the stats file
         run: curl 'https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en&hide=stars' -o stats.svg
 
-      # - name: Download the top languages file
-      #   run: curl 'https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&size_weight=0.85&count_weight=0.15&layout=compact&exclude_repo=cerfi-notebooks,freqtrade-datas,sheerlox.github.io&hide=hcl,css,handlebars,smarty,html' -o top-langs.svg
+      - name: Download the top languages file
+        run: curl 'https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200' -o top-langs.svg
 
       - name: Upload artifacts
         uses: actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32 # v3
