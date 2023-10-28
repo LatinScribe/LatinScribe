@@ -18,7 +18,13 @@
   
 - 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
-<p>&nbsp;<img align="center" src="assets/stats.svg" alt="LatinScribe" /></p>
+
+<a href="assets/stats.svg">
+  <img height=200 align="center" src="assets/stats.svg" />
+</a>
+<a href="assets/top-langs.svg">
+  <img height=200 align="center" src="assets/top-langs.svg"/>
+</a>
 
 <!---
 LatinScribe/LatinScribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
