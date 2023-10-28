@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He/Him
   
-- 🌱Currently a second-year student studying Computer Science at the University of Toronto
+- 🎓 Currently a second-year student studying Computer Science at the University of Toronto
   
 - 👀 I’m interested in developing software that will change the world
 
@@ -12,15 +12,17 @@
   
 - 🎲 Life long hobby of playing Go, contact me to play a game
 
-- 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
-
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/henry-tj-chen/)
+
+- 🌐 Check out my [Website](https://henrytchen.com/)
+  
+- 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
 
 <a href="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en">
   <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" />
 </a>
-<a href="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200">
+<a href="assets/">
   <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200" alt="LatinScribe"/>
 </a>
 
