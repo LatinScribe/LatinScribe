@@ -19,11 +19,11 @@
 - 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
 
 
-<a href="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en">
-  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api?username=LatinScribe&theme=tokyonight&show_icons=true&locale=en" alt="LatinScribe" />
+<a href="assets/stats.svg">
+  <img height=200 align="center" src="assets/stats.svg" />
 </a>
-<a href="assets/">
-  <img height=200 align="center" src="https://personal-github-readme-stats-seven.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200" alt="LatinScribe"/>
+<a href="assets/top-langs.svg">
+  <img height=200 align="center" src="assets/top-langs.svg"/>
 </a>
 
 <!---
