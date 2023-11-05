@@ -23,7 +23,7 @@
   <img height=200 align="center" src="assets/stats.svg" />
 </a>
 <a href="assets/top-langs.svg">
-  <img height=200 align="center" src="assets/top-langs.svg"/>
+  <img height=200 align="right" src="assets/top-langs.svg"/>
 </a>
 
 <!---
