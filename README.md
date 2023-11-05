@@ -20,10 +20,10 @@
 
 
 <a href="assets/stats.svg">
-  <img height=200 max-width=50% align="left" src="assets/stats.svg" />
+  <img height=200 maxWidth=50% align="left" src="assets/stats.svg" />
 </a>
 <a href="assets/top-langs.svg">
-  <img height=200 max-width=50% align="right" src="assets/top-langs.svg"/>
+  <img height=200 maxWidth=50% align="right" src="assets/top-langs.svg"/>
 </a>
 
 <!---
