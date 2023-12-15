@@ -16,7 +16,7 @@
 
 - 🌐 Check out my [Website](https://henrytchen.com/)
   
-- 📫 Feel free to reach out to me: [**henryt(dot)chen(at)mail(dot)utoronto(dot)ca**](mailto://henryt.chen@mail.utoronto.ca)
+- 📫 Feel free to reach out to me: [**henryt [dot] chen [at] mail [dot] utoronto [dot] ca**](mailto://henryt.chen@mail.utoronto.ca)
 
 <p>&nbsp;<img align="center" src="assets/stats.svg" alt="LatinScribe" /></p>
 
