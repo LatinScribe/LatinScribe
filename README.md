@@ -8,7 +8,7 @@
   
 - 👀 I’m interested in developing software that will change the world!
 
-- 🔧 Skills in Java, Python, PHP, HTML & CSS, Javascipt, Git, cPanel, TensorFlow
+- 🔧 Skills in Java, Python, C/UNIX, PHP, HTML & CSS, Javascipt, Assembly, Git, cPanel, TensorFlow
   
 - 🎲 Life long hobby of playing Go, contact me to play a game
 
