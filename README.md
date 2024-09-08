@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He/Him
   
-- 🎓 Currently a second-year student studying Computer Science at the University of Toronto
+- 🎓 Currently a third-year student studying Computer Science at the University of Toronto
   
 - 👀 I’m interested in developing software that will change the world!
 
