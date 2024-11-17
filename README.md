@@ -8,7 +8,7 @@
   
 - 👀 I’m interested in developing software that will change the world!
 
-- 🔧 Skills in Java, Python, C/UNIX, PHP/HTML/CSS, Javascipt, Assembly, React, Node & Next.js, TypeScript, Restful APIs, Data Structures & Algorithms, Docker, Git, cPanel
+- 🔧 Skills in Java, Python, C/UNIX, PHP/HTML/CSS, Javascipt, Assembly, React, Node & Next.js, TypeScript, Tailwind CSS, Restful APIs, Data Structures & Algorithms, Docker, Git, cPanel
   
 - 🎲 Life long hobby of playing Go, contact me to play a game
 
