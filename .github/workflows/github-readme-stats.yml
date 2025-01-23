@@ -21,7 +21,7 @@ jobs:
         run: curl 'https://read-me-stats-2024-mb9i.vercel.app/api/top-langs?username=LatinScribe&layout=compact&langs_count=8&theme=tokyonight&card_width=200' -o top-langs.svg
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32 # v3
+        uses: actions/upload-artifact@0fde654d4c6e659b45783a725dc92f1bfb0baa6c2de64b34e814dc206ff4aaaf # v4
         with:
           name: assets
           path: |
