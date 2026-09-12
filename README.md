@@ -4,7 +4,9 @@
 
 - 😄 Pronouns: He/Him
   
-- 🎓 Currently a fourth-year student studying Computer Science at the University of Toronto
+- 🎓 Recent Graduate in Computer Science from the University of Toronto
+
+- 🛡️ Ex Microarchitectural security researcher in the Secure Intelligent and Trustworthy Systems (SITH) lab at U of T
   
 - 👀 I’m interested in developing software that will change the world!
 
